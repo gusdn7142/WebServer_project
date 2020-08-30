@@ -1,6 +1,6 @@
 # WebServer_project
 웹서버프로그래밍 프로젝트(의류정보공유 커뮤니티)는
-Binmami wampstack(apache 웹서버, Mysql DB), Sublime Text editor를 활용한 웹서버 구축 프로젝트입니다.
+Binmami wampstack(Window 환경, apache 웹서버, Mysql DB, php 언어)과 Sublime Text editor를 활용한 웹서버 구축 프로젝트입니다.
 
 웹서버와 DB가 구축되어 있어야 정상적인 웹페이지를 볼수 있습니다.
 
