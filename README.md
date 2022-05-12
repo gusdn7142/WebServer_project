@@ -1,14 +1,53 @@
-# WebServer_project
-웹서버프로그래밍 프로젝트(의류정보공유 커뮤니티)는
-Binmami wampstack(Window 환경, apache 웹서버, Mysql DB, php 언어)과 Sublime Text editor를 활용한 웹서버 구축 프로젝트입니다.
+# 📝 프로젝트 소개
+>약 3개월 동안 혼자서 진행했던 패션 정보를 공유할수 있는 웹 서비스 개발 프로젝트입니다.  
+- 제작 기간 : 2019년 9월 ~ 12월  
+- 프론트엔드 개발자 : 본인
+- 백엔드 개발자 : 본인
 
-웹서버와 DB가 구축되어 있어야 정상적인 웹페이지를 볼수 있습니다.
 
-#php파일 설명 
- 1) 메인화면 구성요소1 : user_account.php(메인화면) + user_registration.php(회원가입창) +profile.php(회원정보수정창) + sessiondel.php(로그아웃창)
- 2) 메인화면 구성요소2 : research.php(검색내역) + top.php(상의) + worst.php(최악) + pants.php(하의) + shoes.php(신발) + best.php(최고) + outer.php(아우터) + del.php(의류정보 삭제)
- 3) 로그인  : user_login.php(로그인창)
- 4) 검색시 유사키워드 띄우기 : ajax_search.php(검색기능)
- 5) 의류정보 수정 :  change.php(의류정보수정창)
- 6) 관리자 (로그인, 계정) 페이지 : admin_login.php(관리자 로그인창) + admin_user(rear).php(관리자계정창) + sessiondel(admin).php (관리자 로그아웃창) + delete_user.php(사용자 정보 삭제화면)
+</br>
+
+
+## 📽 시연 화면
+추가예정
+
+
+</br>
+
+## 🛠 사용 기술
+#### `Back-end`
+  - PHP
+#### `DevOps`  
+  - Apache
+  - Mysql
+#### `Front-end`  
+  - HTML5
+  - CSS3
+  - Bootstrap
+  - Javascript
+
+</br>
+
+## 🔎 기능 소개 
+>이 서비스의 핵심기능은 유저들간의 의류 정보 공유입니다.
+- 프론트엔드 화면 구현
+  - 메인페이지 : 회원가입/수정 버튼, 로그인/로그아웃 버튼, 검색 버튼, 상의/하의/신발/아우터 등을 등록/수정/삭제/조회 해주는 화면 구현 
+  - 로그인/로그아웃 페이지
+  - 의류정보 수정 페이지
+  - 관리자 로그인과 계정 페이지 
+- 백엔드 기능 구현
+  - 의류 정보 등록/수정/삭제/검색 기능
+  - 사용자와 관리자 로그인/로그아웃 기능
+  - 회원정보 수정/삭제 기능
+  - 사용자 정보 조회 기능
+
+</br>
+
+
+
+## ❕ 회고 / 느낀점
+>프로젝트 개발 회고 글
+- 개발 관련 프로젝트는 처음이었지만, 하루하루 구현되는 UI와 기능을 보며 개발에 흥미를 느꼈습니다.
+
+
 
