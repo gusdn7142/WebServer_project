@@ -1,5 +1,5 @@
 # 📝 프로젝트 소개
->약 3개월 동안 혼자서 진행했던 패션 정보를 공유할수 있는 웹 서비스 개발 프로젝트입니다.  
+>약 3개월 동안 WAMP stack을 활용해 혼자서 진행했던 패션 정보를 공유할수 있는 웹 서비스 개발 프로젝트입니다.  
 - 제작 기간 : 2019년 9월 ~ 12월  
 - 프론트엔드 개발자 : 본인
 - 백엔드 개발자 : 본인
@@ -8,9 +8,20 @@
 </br>
 
 
-## 📽 시연 화면
-추가예정
+## 📽 시연 화면 
+<details>
+    <summary>📽 메인 화면 </summary>
+        <div markdown="1">
+          <img src="https://user-images.githubusercontent.com/62496215/168137581-76f85c47-bf23-4cc2-a212-3e70e0da094e.png" width="1000">
+        </div>
+</details>
 
+<details>
+    <summary>📽 의류 정보 조회 화면 </summary>
+        <div markdown="1">
+          <img src="https://user-images.githubusercontent.com/62496215/168137858-60d18145-58d0-4963-8dc9-748ab9010296.png" width="1000">
+        </div>
+</details>
 
 </br>
 
